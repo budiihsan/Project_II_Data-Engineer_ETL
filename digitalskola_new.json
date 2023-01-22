@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digitalskola-368401",
+  "private_key_id": "312ec44a122e2cd4bd37cf54f1ca720fc78b6de0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCqg2CkcK3eKKDq\nrYbJwK+E51v6dJ1SZr7Q6XI2Cnol8pMGlohBM80w+wmnhIr3ChHwUe1cLlz2qpes\nQclcY1QWeOFG8BCUCrmGmavrJ1nnESkVvrj5JOgFAi4MKYf7grjRWWsf6zRi6W6+\nPRBvv8eGd8x9pnTNRG5R0ksBHQYJeus30e5ucU+8ckckdgUV39ZMIUNwUyaiqo8h\nHZaSjLWTzzH3RAr/043hKv79CwK25V80n7Ap80m2EkWUMWFDyyxBPOwtHQppP1J8\nN+yGo0OJEFb4+BV2y6xK2N/4MZ3Pav52tA+DPGiiLwEW469EV+Yarwc1XD2g2kbk\np9JORnH5AgMBAAECgf8HSa/qxVtX1+Y/TcB1lQwi9dtAAMIihECr1lGPdw9h18yK\noAqA9nF31kYLIydXItKty8dSrWnnBEbHfFBNtZrCFDAEAMd39T0h3ZerTsYXUCqf\nIFn24ClIOsG+HMeKf6BkjNxeJeRaphvq8x81adZwFZop8eiV4HxnkcY+JpUCSOI+\nhuCZyzsU79UO0iLtsZCj/5bwwqycRS1AK/YhNxle4S1fN7VARVScK4MSLFTuvYMs\ne9rDnUTywQgWu0G94Da4eUUWb2YXVP5YYdKLk2rfWyAgEKJXHBbLdqs6et4r4rl7\nTSMe5o+rxK1hXxX+tTVyxMcTjjf5+PjQd96jp0kCgYEA25xmWiatigxv875L9X2o\n4cKcnngyHxgVQ7ICVL5DQeqJS+uG/P0AMV/7RiLZeYs6sJlEhzK+0nz6eBueB9kn\n61b2TRqi/j6AJaL7ZkhTKmelUu5ALf8Kefu2Nt1ui6JFuJUlwHKvj1MuHTKMHg0k\nZLR40q0eWSkaDfsFnBBnykUCgYEAxsRRSnJpPAeDI43yHep2G+7sZRiH0VbjMDaD\n/sfuf3cIIFY4h5RZ+uS6a8Goyz3mphgV88LYKfpj9eM459VIQoLmlHm8g664Nsu/\n0A84rpCRQkL2MVSvlovHbaURuDB4R5Oevmbow0plONU/1QjpNOzGycyCQMnpFPp9\nfVh7viUCgYEA2PhrkxP1jpd9IBbZ2yAcc3gf3t0nv9q+X5SGgw07S+uZXD3FrzuT\nLjUC/6c8r73j7UhwERcMus8pcvLuLhjZPMU9MK5pbMF5QDYHJWW9bP7bstSa6ha5\nVg1fWFNrfV+EfLo2gy2L0BHBVK11C9e2Jhy75oGNo09dY4SnZSo8MPUCgYBv0Rj6\nDIru3jsD0WKXOcLfy/TomngtZ/e+s6xltAuTYV8M8fQzMV29KtdEr1lJnLUYUwxm\naQI5+0YomX71zKIt6H3WoPVQDwZKrSxm22lDqshMwmbFMaLlyhSStf3V5E6F1aHD\n8xiWZE+1PSH/slefEmRyOb48vFmHF7NoxFI4kQKBgAMbc1JBOMcDyAFZDLuuZwUY\n3OWvmKR70sNhpb9bQeeDRfarZk5FVrjTg2WSWsPcP5YJ+roFasEsaVNSUAMRnJC9\nl1fPHJLENepFOT1Lise98epsCRunMop1jzOwpnxo8rVmMA+bvAHGShL2MIE1ZX6/\nS/67cZWJgdKiDOv+XXcu\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledigitalskola@digitalskola-368401.iam.gserviceaccount.com",
+  "client_id": "100682726932413498335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledigitalskola%40digitalskola-368401.iam.gserviceaccount.com"
+}
